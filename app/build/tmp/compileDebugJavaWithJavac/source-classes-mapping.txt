@@ -1,0 +1,28 @@
+com/example/weatherexercise/view/ForecastDetailFragmentArgs.java
+ com.example.weatherexercise.view.ForecastDetailFragmentArgs
+ com.example.weatherexercise.view.ForecastDetailFragmentArgs$1
+ com.example.weatherexercise.view.ForecastDetailFragmentArgs$Builder
+com/example/weatherexercise/BuildConfig.java
+ com.example.weatherexercise.BuildConfig
+com/example/weatherexercise/view/ForecastFragmentArgs.java
+ com.example.weatherexercise.view.ForecastFragmentArgs
+ com.example.weatherexercise.view.ForecastFragmentArgs$1
+ com.example.weatherexercise.view.ForecastFragmentArgs$Builder
+com/example/weatherexercise/view/ForecastFragmentDirections.java
+ com.example.weatherexercise.view.ForecastFragmentDirections
+ com.example.weatherexercise.view.ForecastFragmentDirections$1
+ com.example.weatherexercise.view.ForecastFragmentDirections$ActionForecastFragmentToForecastDetailFragment
+com/example/weatherexercise/view/CityLookupFragmentDirections.java
+ com.example.weatherexercise.view.CityLookupFragmentDirections
+ com.example.weatherexercise.view.CityLookupFragmentDirections$1
+ com.example.weatherexercise.view.CityLookupFragmentDirections$ActionCityLookupFragmentToForecastFragment
+com/example/weatherexercise/databinding/FragmentCitylookupBinding.java
+ com.example.weatherexercise.databinding.FragmentCitylookupBinding
+com/example/weatherexercise/databinding/FragmentForecastBinding.java
+ com.example.weatherexercise.databinding.FragmentForecastBinding
+com/example/weatherexercise/databinding/FragmentForecastDetailBinding.java
+ com.example.weatherexercise.databinding.FragmentForecastDetailBinding
+com/example/weatherexercise/databinding/ActivityMainBinding.java
+ com.example.weatherexercise.databinding.ActivityMainBinding
+com/example/weatherexercise/databinding/ForecastRowItemBinding.java
+ com.example.weatherexercise.databinding.ForecastRowItemBinding

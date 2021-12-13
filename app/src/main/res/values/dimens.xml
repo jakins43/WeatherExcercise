@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_view_margin_top">50dp</dimen>
+    <dimen name="weather_text_view_margin_bottom">16dp</dimen>
+    <dimen name="temp_text_view_margin_top">72dp</dimen>
+    <dimen name="lookup_text_field_margin_bottom">16dp</dimen>
+    <dimen name="weather_item_margin">56dp</dimen>
+</resources>

@@ -1,0 +1,1 @@
+[{"navFile":"src/main/res/navigation/nav_graph.xml","javaFiles":["com.example.weatherexercise.view.CityLookupFragmentDirections","com.example.weatherexercise.view.ForecastFragmentDirections","com.example.weatherexercise.view.ForecastFragmentArgs","com.example.weatherexercise.view.ForecastDetailFragmentArgs"]}]

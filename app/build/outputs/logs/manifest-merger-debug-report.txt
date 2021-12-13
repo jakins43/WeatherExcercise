@@ -1,0 +1,298 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.databinding:viewbinding:7.0.1] /Users/gcruz/.gradle/caches/transforms-3/7b41ea605bd398cf3833453d4069118c/transformed/jetified-viewbinding-7.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/34507bfd753eca7754998443af2b1f5f/transformed/navigation-fragment-ktx-2.4.0-alpha09/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/fc629aa5dbabebb7fa2f9e9110a41fdb/transformed/navigation-fragment-2.4.0-alpha09/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/264f2d5641d67d5eca2a2c4163f4a453/transformed/jetified-fragment-ktx-1.4.0-alpha09/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/6787677a59c03598feb959dea63c5cfd/transformed/navigation-ui-ktx-2.4.0-alpha09/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/0fd7ea176509bf8d26c12afb4ba5f863/transformed/navigation-runtime-ktx-2.4.0-alpha09/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/009033079b722b8b56bf831b9c77b2aa/transformed/navigation-ui-2.4.0-alpha09/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/f4f9b62fe47d3f33aed9621cf894d45d/transformed/navigation-runtime-2.4.0-alpha09/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/gcruz/.gradle/caches/transforms-3/882ff824eee9a6f381aa3406e94fc8f4/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/666fb17608aa2b05436f839e48e16df6/transformed/navigation-common-ktx-2.4.0-alpha09/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/bd53fa52de93ca58ba1fe71fe873f648/transformed/navigation-common-2.4.0-alpha09/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/09444f5b177d5667714aa1f22092b516/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/cddab9becbf13338290fb3b9d136e381/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0-beta01] /Users/gcruz/.gradle/caches/transforms-3/ed106768b6d2aa0df6fc5ce321e370a8/transformed/slidingpanelayout-1.2.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-beta02] /Users/gcruz/.gradle/caches/transforms-3/e558c5d9075546f4a6101e19e290b70c/transformed/jetified-window-1.0.0-beta02/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/gcruz/.gradle/caches/transforms-3/0bbdd6411ca8c90bef915d9f5367e70b/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/gcruz/.gradle/caches/transforms-3/d6695027837ced2415ac8219ee3ddce6/transformed/constraintlayout-2.1.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] /Users/gcruz/.gradle/caches/transforms-3/1d6b8afe74f22115983f814d59f561db/transformed/appcompat-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/53ec4ae2f90de556a18650120472afb8/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/1450baf0db13c22972a4576bf8055c6b/transformed/fragment-1.4.0-alpha09/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/gcruz/.gradle/caches/transforms-3/2a15205766c60db3c55539bd8df3caa8/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/gcruz/.gradle/caches/transforms-3/74f9d80f17d7e24211b34ba178453e2a/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /Users/gcruz/.gradle/caches/transforms-3/7f81d0127a9923873a96d74962cd6cdc/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/bbee5b7ef1b833f87eb4a8c8e7472fd5/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/585b002cfbf1fac3ee578be4fa60698d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/eb4f7a70ee8594ab1b406c6b3148c57a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/33cc606cfd811478e83acc9631b0dc6d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/f35ee90c88309466ebc2dc18e6eb9a54/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/4d43c55e115b7b5a5d744b050cca2cf0/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/c2559ee8f129dbcd53f42ca4f88f9cef/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/9721c3185a23d8874aa530cd2dc72923/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/44e3b71095f9a00dc5c750f9454e1b47/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/gcruz/.gradle/caches/transforms-3/34af66406776d9ce09d9eac301dd8d6d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/cc4d3a75f2e031e766c40db8dff68ae7/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/4a453b80aec537f5c3a8a7f423c5aca5/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/gcruz/.gradle/caches/transforms-3/e3decc16942b3378353e2f2f0f1859d1/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/gcruz/.gradle/caches/transforms-3/fb8c8ceab644f088f73eb9096b841bcc/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/49ec659c29711c9155f1d17ff17ef1c0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/86eff2cbbd5ee98f8987f9e04109d3aa/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/6019216059172e69fd7e18ef29194bee/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/92ecbcc38dab05335cd27d691cc5f85f/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/8f63dcc8030030ae2753a6112aaf4ac4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/32cfadac39b56455555627ab0dc3c254/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gcruz/.gradle/caches/transforms-3/86fc1f3716b697e6c56b4915e3270392/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gcruz/.gradle/caches/transforms-3/e001113bb03cc815cc2227fd224af993/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/e3b0d41b7741c94ee9c60b73688a95cf/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/18a2f2589aa75aa9b66d85c3201a971c/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gcruz/.gradle/caches/transforms-3/7841d828c2f09da5cf6d1b8a7d4c5e25/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/d29fe802615cd09612fe5683e048fa3b/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/a08cba164cc7844ebbd4c0c0a4284b92/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/gcruz/.gradle/caches/transforms-3/0c574400d5e5c7167790988a8603ec5f/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/gcruz/.gradle/caches/transforms-3/bd46482140cf62e041992b20495f095a/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/e236140d489c035f2b78a6acd0ac8499/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/f75879612fe49581afdb026df95b0f84/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/bc30b237b184d7e5edb0e445baf11fb2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/ab201608e53d466484b58bdfd0fd5c4e/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/c5696ad69da301de2ecd09b8698d9e49/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [androidx.window:window:1.0.0-beta02] /Users/gcruz/.gradle/caches/transforms-3/e558c5d9075546f4a6101e19e290b70c/transformed/jetified-window-1.0.0-beta02/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta02] /Users/gcruz/.gradle/caches/transforms-3/e558c5d9075546f4a6101e19e290b70c/transformed/jetified-window-1.0.0-beta02/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/gcruz/.gradle/caches/transforms-3/0bbdd6411ca8c90bef915d9f5367e70b/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/gcruz/.gradle/caches/transforms-3/0bbdd6411ca8c90bef915d9f5367e70b/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/gcruz/.gradle/caches/transforms-3/d6695027837ced2415ac8219ee3ddce6/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/gcruz/.gradle/caches/transforms-3/d6695027837ced2415ac8219ee3ddce6/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/585b002cfbf1fac3ee578be4fa60698d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/585b002cfbf1fac3ee578be4fa60698d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/gcruz/.gradle/caches/transforms-3/fb8c8ceab644f088f73eb9096b841bcc/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/gcruz/.gradle/caches/transforms-3/fb8c8ceab644f088f73eb9096b841bcc/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gcruz/.gradle/caches/transforms-3/86fc1f3716b697e6c56b4915e3270392/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gcruz/.gradle/caches/transforms-3/86fc1f3716b697e6c56b4915e3270392/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gcruz/.gradle/caches/transforms-3/e001113bb03cc815cc2227fd224af993/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gcruz/.gradle/caches/transforms-3/e001113bb03cc815cc2227fd224af993/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/e3b0d41b7741c94ee9c60b73688a95cf/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/e3b0d41b7741c94ee9c60b73688a95cf/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/gcruz/.gradle/caches/transforms-3/fb8c8ceab644f088f73eb9096b841bcc/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:13:9-53
+activity#com.example.weatherexercise.view.MainActivity
+ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:exported
+		ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:15:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.1] /Users/gcruz/.gradle/caches/transforms-3/7b41ea605bd398cf3833453d4069118c/transformed/jetified-viewbinding-7.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.1] /Users/gcruz/.gradle/caches/transforms-3/7b41ea605bd398cf3833453d4069118c/transformed/jetified-viewbinding-7.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/34507bfd753eca7754998443af2b1f5f/transformed/navigation-fragment-ktx-2.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/34507bfd753eca7754998443af2b1f5f/transformed/navigation-fragment-ktx-2.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/fc629aa5dbabebb7fa2f9e9110a41fdb/transformed/navigation-fragment-2.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/fc629aa5dbabebb7fa2f9e9110a41fdb/transformed/navigation-fragment-2.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/264f2d5641d67d5eca2a2c4163f4a453/transformed/jetified-fragment-ktx-1.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/264f2d5641d67d5eca2a2c4163f4a453/transformed/jetified-fragment-ktx-1.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/6787677a59c03598feb959dea63c5cfd/transformed/navigation-ui-ktx-2.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/6787677a59c03598feb959dea63c5cfd/transformed/navigation-ui-ktx-2.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/0fd7ea176509bf8d26c12afb4ba5f863/transformed/navigation-runtime-ktx-2.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/0fd7ea176509bf8d26c12afb4ba5f863/transformed/navigation-runtime-ktx-2.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/009033079b722b8b56bf831b9c77b2aa/transformed/navigation-ui-2.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/009033079b722b8b56bf831b9c77b2aa/transformed/navigation-ui-2.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/f4f9b62fe47d3f33aed9621cf894d45d/transformed/navigation-runtime-2.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/f4f9b62fe47d3f33aed9621cf894d45d/transformed/navigation-runtime-2.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/gcruz/.gradle/caches/transforms-3/882ff824eee9a6f381aa3406e94fc8f4/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/gcruz/.gradle/caches/transforms-3/882ff824eee9a6f381aa3406e94fc8f4/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/666fb17608aa2b05436f839e48e16df6/transformed/navigation-common-ktx-2.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/666fb17608aa2b05436f839e48e16df6/transformed/navigation-common-ktx-2.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/bd53fa52de93ca58ba1fe71fe873f648/transformed/navigation-common-2.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/bd53fa52de93ca58ba1fe71fe873f648/transformed/navigation-common-2.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/09444f5b177d5667714aa1f22092b516/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/09444f5b177d5667714aa1f22092b516/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/cddab9becbf13338290fb3b9d136e381/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/cddab9becbf13338290fb3b9d136e381/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0-beta01] /Users/gcruz/.gradle/caches/transforms-3/ed106768b6d2aa0df6fc5ce321e370a8/transformed/slidingpanelayout-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0-beta01] /Users/gcruz/.gradle/caches/transforms-3/ed106768b6d2aa0df6fc5ce321e370a8/transformed/slidingpanelayout-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta02] /Users/gcruz/.gradle/caches/transforms-3/e558c5d9075546f4a6101e19e290b70c/transformed/jetified-window-1.0.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta02] /Users/gcruz/.gradle/caches/transforms-3/e558c5d9075546f4a6101e19e290b70c/transformed/jetified-window-1.0.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/gcruz/.gradle/caches/transforms-3/0bbdd6411ca8c90bef915d9f5367e70b/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/gcruz/.gradle/caches/transforms-3/0bbdd6411ca8c90bef915d9f5367e70b/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/gcruz/.gradle/caches/transforms-3/d6695027837ced2415ac8219ee3ddce6/transformed/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/gcruz/.gradle/caches/transforms-3/d6695027837ced2415ac8219ee3ddce6/transformed/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /Users/gcruz/.gradle/caches/transforms-3/1d6b8afe74f22115983f814d59f561db/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /Users/gcruz/.gradle/caches/transforms-3/1d6b8afe74f22115983f814d59f561db/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/53ec4ae2f90de556a18650120472afb8/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/53ec4ae2f90de556a18650120472afb8/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/1450baf0db13c22972a4576bf8055c6b/transformed/fragment-1.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0-alpha09] /Users/gcruz/.gradle/caches/transforms-3/1450baf0db13c22972a4576bf8055c6b/transformed/fragment-1.4.0-alpha09/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/gcruz/.gradle/caches/transforms-3/2a15205766c60db3c55539bd8df3caa8/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/gcruz/.gradle/caches/transforms-3/2a15205766c60db3c55539bd8df3caa8/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/gcruz/.gradle/caches/transforms-3/74f9d80f17d7e24211b34ba178453e2a/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/gcruz/.gradle/caches/transforms-3/74f9d80f17d7e24211b34ba178453e2a/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /Users/gcruz/.gradle/caches/transforms-3/7f81d0127a9923873a96d74962cd6cdc/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /Users/gcruz/.gradle/caches/transforms-3/7f81d0127a9923873a96d74962cd6cdc/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/bbee5b7ef1b833f87eb4a8c8e7472fd5/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/bbee5b7ef1b833f87eb4a8c8e7472fd5/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/585b002cfbf1fac3ee578be4fa60698d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/585b002cfbf1fac3ee578be4fa60698d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/eb4f7a70ee8594ab1b406c6b3148c57a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/eb4f7a70ee8594ab1b406c6b3148c57a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/33cc606cfd811478e83acc9631b0dc6d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/33cc606cfd811478e83acc9631b0dc6d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/f35ee90c88309466ebc2dc18e6eb9a54/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/f35ee90c88309466ebc2dc18e6eb9a54/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/4d43c55e115b7b5a5d744b050cca2cf0/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/4d43c55e115b7b5a5d744b050cca2cf0/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/c2559ee8f129dbcd53f42ca4f88f9cef/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/c2559ee8f129dbcd53f42ca4f88f9cef/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/9721c3185a23d8874aa530cd2dc72923/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/9721c3185a23d8874aa530cd2dc72923/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/44e3b71095f9a00dc5c750f9454e1b47/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/44e3b71095f9a00dc5c750f9454e1b47/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/gcruz/.gradle/caches/transforms-3/34af66406776d9ce09d9eac301dd8d6d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/gcruz/.gradle/caches/transforms-3/34af66406776d9ce09d9eac301dd8d6d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/cc4d3a75f2e031e766c40db8dff68ae7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/cc4d3a75f2e031e766c40db8dff68ae7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/4a453b80aec537f5c3a8a7f423c5aca5/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/4a453b80aec537f5c3a8a7f423c5aca5/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/gcruz/.gradle/caches/transforms-3/e3decc16942b3378353e2f2f0f1859d1/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/gcruz/.gradle/caches/transforms-3/e3decc16942b3378353e2f2f0f1859d1/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/gcruz/.gradle/caches/transforms-3/fb8c8ceab644f088f73eb9096b841bcc/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/gcruz/.gradle/caches/transforms-3/fb8c8ceab644f088f73eb9096b841bcc/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/49ec659c29711c9155f1d17ff17ef1c0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/49ec659c29711c9155f1d17ff17ef1c0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/86eff2cbbd5ee98f8987f9e04109d3aa/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/86eff2cbbd5ee98f8987f9e04109d3aa/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/6019216059172e69fd7e18ef29194bee/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/6019216059172e69fd7e18ef29194bee/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/92ecbcc38dab05335cd27d691cc5f85f/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/92ecbcc38dab05335cd27d691cc5f85f/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/8f63dcc8030030ae2753a6112aaf4ac4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/8f63dcc8030030ae2753a6112aaf4ac4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/32cfadac39b56455555627ab0dc3c254/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/32cfadac39b56455555627ab0dc3c254/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gcruz/.gradle/caches/transforms-3/86fc1f3716b697e6c56b4915e3270392/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/gcruz/.gradle/caches/transforms-3/86fc1f3716b697e6c56b4915e3270392/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gcruz/.gradle/caches/transforms-3/e001113bb03cc815cc2227fd224af993/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gcruz/.gradle/caches/transforms-3/e001113bb03cc815cc2227fd224af993/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/e3b0d41b7741c94ee9c60b73688a95cf/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/e3b0d41b7741c94ee9c60b73688a95cf/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/18a2f2589aa75aa9b66d85c3201a971c/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/18a2f2589aa75aa9b66d85c3201a971c/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gcruz/.gradle/caches/transforms-3/7841d828c2f09da5cf6d1b8a7d4c5e25/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gcruz/.gradle/caches/transforms-3/7841d828c2f09da5cf6d1b8a7d4c5e25/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/d29fe802615cd09612fe5683e048fa3b/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/d29fe802615cd09612fe5683e048fa3b/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/a08cba164cc7844ebbd4c0c0a4284b92/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/gcruz/.gradle/caches/transforms-3/a08cba164cc7844ebbd4c0c0a4284b92/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/gcruz/.gradle/caches/transforms-3/0c574400d5e5c7167790988a8603ec5f/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/gcruz/.gradle/caches/transforms-3/0c574400d5e5c7167790988a8603ec5f/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/gcruz/.gradle/caches/transforms-3/bd46482140cf62e041992b20495f095a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/gcruz/.gradle/caches/transforms-3/bd46482140cf62e041992b20495f095a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/e236140d489c035f2b78a6acd0ac8499/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/e236140d489c035f2b78a6acd0ac8499/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/f75879612fe49581afdb026df95b0f84/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/f75879612fe49581afdb026df95b0f84/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/bc30b237b184d7e5edb0e445baf11fb2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/bc30b237b184d7e5edb0e445baf11fb2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/ab201608e53d466484b58bdfd0fd5c4e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/ab201608e53d466484b58bdfd0fd5c4e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/c5696ad69da301de2ecd09b8698d9e49/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/gcruz/.gradle/caches/transforms-3/c5696ad69da301de2ecd09b8698d9e49/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gcruz/AndroidStudioProjects/weatherexcercise/app/src/main/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta02] /Users/gcruz/.gradle/caches/transforms-3/e558c5d9075546f4a6101e19e290b70c/transformed/jetified-window-1.0.0-beta02/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta02] /Users/gcruz/.gradle/caches/transforms-3/e558c5d9075546f4a6101e19e290b70c/transformed/jetified-window-1.0.0-beta02/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta02] /Users/gcruz/.gradle/caches/transforms-3/e558c5d9075546f4a6101e19e290b70c/transformed/jetified-window-1.0.0-beta02/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta02] /Users/gcruz/.gradle/caches/transforms-3/e558c5d9075546f4a6101e19e290b70c/transformed/jetified-window-1.0.0-beta02/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta02] /Users/gcruz/.gradle/caches/transforms-3/e558c5d9075546f4a6101e19e290b70c/transformed/jetified-window-1.0.0-beta02/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta02] /Users/gcruz/.gradle/caches/transforms-3/e558c5d9075546f4a6101e19e290b70c/transformed/jetified-window-1.0.0-beta02/AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/585b002cfbf1fac3ee578be4fa60698d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gcruz/.gradle/caches/transforms-3/e001113bb03cc815cc2227fd224af993/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gcruz/.gradle/caches/transforms-3/e001113bb03cc815cc2227fd224af993/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/e3b0d41b7741c94ee9c60b73688a95cf/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/e3b0d41b7741c94ee9c60b73688a95cf/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/585b002cfbf1fac3ee578be4fa60698d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/585b002cfbf1fac3ee578be4fa60698d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/585b002cfbf1fac3ee578be4fa60698d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/585b002cfbf1fac3ee578be4fa60698d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/585b002cfbf1fac3ee578be4fa60698d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/585b002cfbf1fac3ee578be4fa60698d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/gcruz/.gradle/caches/transforms-3/585b002cfbf1fac3ee578be4fa60698d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gcruz/.gradle/caches/transforms-3/e001113bb03cc815cc2227fd224af993/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gcruz/.gradle/caches/transforms-3/e001113bb03cc815cc2227fd224af993/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/gcruz/.gradle/caches/transforms-3/e001113bb03cc815cc2227fd224af993/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
